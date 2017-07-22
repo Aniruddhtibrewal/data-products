@@ -1,0 +1,18 @@
+---
+title: "Assignment Presentation"
+date: "22/07/2017"
+output: slidy_presentation
+---
+
+```{r setup, include=FALSE}
+library(plotly)
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Slide with Plot
+
+```{r, echo=FALSE}
+options(warn = -1)
+plot_ly(mtcars, x = ~cyl, y = ~mpg, type = "bar")
+```
+
