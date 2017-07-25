@@ -1,0 +1,35 @@
+---
+title: "Potential Energy Calculator"
+author: "Aniruddh"
+date: "25/07/2017"
+output: slidy_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## What is Potential Energy 
+
+In physics, potential energy is energy possessed by a body by virtue of its position relative to others, stresses within itself, electric charge, and other factors. Common types include the gravitational potential energy of an object that depends on its mass and its distance from the center of mass of another object, the elastic potential energy of an extended spring, and the electric potential energy of an electric charge in an electric field. The unit for energy in the International System of Units (SI) is the joule, which has the symbol J.
+
+## How is Potential Energy Calculated 
+
+- Input the mass of the body (m)
+- Input the height from the ground level  (h)
+- Acceleration due to gravity is a constant with a value 10 m/s^2
+- Potental Energy (P.E.) = m * h * g
+
+## Example
+
+
+Mass = 10 Kg
+
+Height = 50 m
+
+Potential Energy  = 500 Joules
+
+## Conclusion 
+
+Potential Energy plays an important role in our everyday life. The fuel stored in your gasoline-powered car's tank is potential energy, ready to be used for transportation; the ignition, spark and firing of the engine begin the potential-to-kinetic cycle, and your car's response as it leaves the driveway and heads onto the road is an extension of kinetic movement. Electric cars store their potential energy in batteries, waiting for the switch-on that begins their driver's kinetically-powered trip.
+
